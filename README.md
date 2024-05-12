@@ -11,12 +11,12 @@ This is a simple firewall application built using Python and Tkinter GUI library
 1. **Clone the repository** to your local machine:
 
    ```bash
-   git clone https://github.com/Lagnesh7/Random-Password-Generator.git
+   git clone https://github.com/Lagnesh7/Firewall-Configuration-GUI.git
 2. Navigate to the project directory:
 
     ```bash
-   cd R
-3. Run the "Random_Password.py" file::
+   cd Firewall-Configuration-GUI
+3. Run the "Firewall.py" file::
 
     ```bash
-   python Random_Password.py
+   python Firewall.py
