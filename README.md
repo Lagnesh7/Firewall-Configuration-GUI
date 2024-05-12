@@ -11,3 +11,5 @@ This is a simple firewall application built using Python and Tkinter GUI library
 
 ```bash
 git clone https://github.com/your_username/password-generator.git
+
+2. Navigate to the project directory:
