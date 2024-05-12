@@ -7,9 +7,16 @@ This is a simple firewall application built using Python and Tkinter GUI library
 - **Graphical User Interface (GUI)**: Easy-to-use interface built with Tkinter.
 
 ## How to Use
+
 1. **Clone the repository** to your local machine:
 
-```bash
-git clone https://github.com/your_username/password-generator.git
-
+   ```bash
+   git clone https://github.com/Lagnesh7/Random-Password-Generator.git
 2. Navigate to the project directory:
+
+    ```bash
+   cd R
+3. Run the "Random_Password.py" file::
+
+    ```bash
+   python Random_Password.py
