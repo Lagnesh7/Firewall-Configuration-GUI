@@ -20,3 +20,17 @@ This is a simple firewall application built using Python and Tkinter GUI library
 
     ```bash
    python Firewall.py
+4. Enter the details for the rule (Source IP, Destination IP, Source Port, Destination Port, Protocol) in the provided input fields.
+
+5. Click on the "Add Rule" button to add the rule to the firewall.
+
+6. To check if a packet is allowed, enter the packet details in the input fields.
+
+7. Click on the "Check Packet" button to check if the packet is allowed or blocked.
+
+## Requirements
+- Python 3.x
+- Tkinter (usually comes pre-installed with Python)
+
+## Contributors
+Lagnesh Chaudhary
